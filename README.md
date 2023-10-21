@@ -13,4 +13,6 @@ wheat needs to be processed into flour into dough into flour using a brick oven 
 nerf brick recipe as it should have been: 2 brick blocks per 4 brick items\
 ability to burn food if you aren't paying attention\
 baked clay blocks\
-wattle and daub
+wattle and daub\
+clay pots: pre wooden storage\
+oh did i mention that planks are locked behind metalic saws
